@@ -2,7 +2,7 @@ Health centre portal of IIIT Una. It contains dynamic dashboards for admin and s
 
 ### Steps to Run :
 
-npm install 
+1. npm install 
 
 npm install nodemon
 
